@@ -1,0 +1,1 @@
+# js-escritor-autom-tico-de-nomes
